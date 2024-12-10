@@ -1,5 +1,6 @@
 # THIS IS THE DEV REPOSITORY - PART 3
 - Amay Gada | ahgada | ahgada@ncsu,edu
+- Mushtaq Shaikh | mshaikh2 | mshaikh2@ncsu,edu
 
 # Compilation
 
