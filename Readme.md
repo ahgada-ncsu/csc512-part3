@@ -38,6 +38,10 @@ $ ./a.out
 - The code for this is in ./seminal_pass/SeminalPass.cpp   &   ./seminal_pass/sp.hpp
 - The details for this are in this repository
     - https://github.com/ahgada-ncsu/csc512-part2-dev
+ 
+# Combining part 1 and 2
+- we just compile both the passes by updating the CMakeFile.
+- During compilation we pass multiple fpass-plugin options to allow sequential execution of the part 1 pass and part 2 pass.
 
 # About the test programs
 - We have 7 test programs
